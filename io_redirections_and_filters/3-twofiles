@@ -1,2 +1,2 @@
 #!/bin/bash
-diff /etc/passwd /etc/host
+ccatetc/passwd /etc/host
